@@ -36,5 +36,6 @@ API REST con Laravel 12. Actions, Events, Notifications, Policies, Spatie QueryB
 
 ## Contacto
 
+- Portfolio: [paulofraga.dev](https://paulofraga.dev)
 - LinkedIn: [linkedin.com/in/paulofragadev](https://linkedin.com/in/paulofragadev)
 - Email: [paulo.fraga@efforwai.com](mailto:paulo.fraga@efforwai.com)
